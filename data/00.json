@@ -1,86 +1,202 @@
 {
     "generation": {
-        "id": "00",
-        "name": "ANGKATAN 00",
-        "description": "Daftar murid angkatan 09 Sekolah Alam Cikeas."
+        "id": "000",
+        "name": "ANGKATAN 000",
+        "description": "Database khusus pengujian NEXUS SAC."
     },
 
     "students": [
         {
             "id": "00001",
-            "name": "Deu FP00111082025",
-            "photo": null,
+            "name": "Deu",
+            "photo": "00/VRChat.png",
             "research": [
                 {
-                    "id": "0000101",
+                    "id": "00000101",
                     "type": "a",
-                    "title": "Analisis Pengaruh Posisi IMU Tracker terhadap Akurasi Full Body Tracking",
-                    "subtitle": "Penelitian Sekolah Alam Cikeas",
-                    "mentor": "Bapak Ahmad",
+                    "title": "Full Markdown Feature Test",
+                    "subtitle": "Complete 000 File",
+                    "mentor": "Bapak c",
                     "year": "2026",
-                    "content": ["#h1 Abstrak\n\nPenelitian ini bertujuan untuk menganalisis pengaruh posisi pemasangan IMU Tracker terhadap akurasi Full Body Tracking.\n\nPengujian dilakukan menggunakan beberapa konfigurasi pemasangan tracker pada sistem SlimeVR.\n\n___\n\n#h1 Dokumentasi\n\n#img asset/logo/image2.png\n\n#img assets/photo2.jpg\n\n#vid assets/video1.webm\n\n___\n\n#h1 Dokumen Penelitian\n\n#file PaktaIntegritasTataTertib2026-2027_SMA.pdf"]
-                },
-                {
-                    "id": "0000102",
-                    "type": "b",
-                    "title": "Analisis Pengaruh Posisi IMU Tracker terhadap Akurasi Full Body Tracking",
-                    "subtitle": "Penelitian Sekolah Alam Cikeas",
-                    "mentor": "Bapak Ahmad",
-                    "year": "2026",
-                    "content": ["#h1 Abstrak\n\nPenelitian ini bertujuan untuk menganalisis pengaruh posisi pemasangan IMU Tracker terhadap akurasi Full Body Tracking.\n\nPengujian dilakukan menggunakan beberapa konfigurasi pemasangan tracker pada sistem SlimeVR.\n\n___\n\n#h1 Dokumentasi\n\n#img asset/logo/image2.png\n\n#img assets/photo2.jpg\n\n#vid assets/video1.webm\n\n___\n\n#h1 Dokumen Penelitian\n\n#file PaktaIntegritasTataTertib2026-2027_SMA.pdf"]
+                    "content": [
+                        "#h1 Markdown Test",
+
+                        "Ini paragraf normal dengan **bold**, *italic*, __underline__, ~~delete~~, `code`, dan [link](https://example.com).",
+
+                        "___",
+
+                        "## Heading 2",
+
+                        "### Heading 3",
+
+                        "___",
+
+                        "- Bullet pertama",
+                        "- Bullet kedua",
+                        "- **Bullet bold**",
+
+                        "___",
+
+                        "1. Number pertama",
+                        "2. Number kedua",
+                        "3. Number ketiga",
+
+                        "___",
+
+                        "> Ini adalah blockquote.",
+
+                        "___",
+
+                        "#img media/00/13.png",
+                        "#img media/00/1.png",
+
+                        "___",
+
+                        "#vid media/00/perkalianbersusunTrim.webm",
+
+                        "___",
+
+                        "#file PaktaIntegritasTataTertib2026-2027_SMA.pdf",
+
+                        "___",
+
+                        "#h1 HTML Escape",
+
+                        "<script>alert('test')</script>",
+
+                        "A & B",
+
+                        "\"Quotes\" dan 'single quotes'.",
+
+                        "___",
+
+                        "#h1 Mixed Test",
+
+                        "Teks **bold**, *italic*, __underline__, ~~delete~~, `code`, dan [link](https://example.com)."
+                    ]
                 }
             ]
         },
+
         {
             "id": "00002",
-            "name": "Alpha FP00227102025",
+            "name": "Alpha",
             "photo": null,
             "research": [
                 {
                     "id": "0000201",
                     "type": "a",
-                    "title": "Analisis Pengaruh Posisi IMU Tracker terhadap Akurasi Full Body Tracking",
-                    "subtitle": "Penelitian Sekolah Alam Cikeas",
-                    "mentor": "Bapak Ahmad",
+                    "title": "Simple Research Test",
+                    "mentor": "Bapak a",
                     "year": "2026",
-                    "content": ["#h1 Abstrak\n\nPenelitian ini bertujuan untuk menganalisis pengaruh posisi pemasangan IMU Tracker terhadap akurasi Full Body Tracking.\n\nPengujian dilakukan menggunakan beberapa konfigurasi pemasangan tracker pada sistem SlimeVR.\n\n___\n\n#h1 Dokumentasi\n\n#img asset/logo/image2.png\n\n#img assets/photo2.jpg\n\n#vid assets/video1.webm\n\n___\n\n#h1 Dokumen Penelitian\n\n#file PaktaIntegritasTataTertib2026-2027_SMA.pdf"]
+                    "content": [
+                        "#h1 Abstrak",
+                        "Ini hanya file penelitian sederhana untuk pengujian."
+                    ]
                 },
                 {
                     "id": "0000202",
                     "type": "b",
-                    "title": "Analisis Pengaruh Posisi IMU Tracker terhadap Akurasi Full Body Tracking",
-                    "subtitle": "Penelitian Sekolah Alam Cikeas",
-                    "mentor": "Bapak Ahmad",
+                    "title": "Simple Research Test",
+                    "mentor": "Bapak b",
                     "year": "2026",
-                    "content": ["#h1 Abstrak\n\nPenelitian ini bertujuan untuk menganalisis pengaruh posisi pemasangan IMU Tracker terhadap akurasi Full Body Tracking.\n\nPengujian dilakukan menggunakan beberapa konfigurasi pemasangan tracker pada sistem SlimeVR.\n\n___\n\n#h1 Dokumentasi\n\n#img asset/logo/image2.png\n\n#img assets/photo2.jpg\n\n#vid assets/video1.webm\n\n___\n\n#h1 Dokumen Penelitian\n\n#file PaktaIntegritasTataTertib2026-2027_SMA.pdf"]
+                    "content": [
+                        "#h1 Abstrak",
+                        "Ini hanya file penelitian sederhana untuk pengujian."
+                    ]
+                },
+                {
+                    "id": "0000203",
+                    "type": "c",
+                    "title": "Simple Research Test",
+                    "mentor": "Bapak c",
+                    "year": "2026",
+                    "content": [
+                        "#h1 Abstrak",
+                        "Ini hanya file penelitian sederhana untuk pengujian."
+                    ]
                 }
             ]
         },
         {
             "id": "00003",
-            "name": "Felo FP00313112025",
+            "name": "Felo",
             "photo": null,
             "research": [
                 {
                     "id": "0000301",
                     "type": "a",
-                    "title": "Analisis Pengaruh Posisi IMU Tracker terhadap Akurasi Full Body Tracking",
-                    "subtitle": "Penelitian Sekolah Alam Cikeas",
-                    "mentor": "Bapak Ahmad",
+                    "title": "Simple Research Test",
+                    "mentor": "Bapak a",
                     "year": "2026",
-                    "content": ["#h1 Abstrak\n\nPenelitian ini bertujuan untuk menganalisis pengaruh posisi pemasangan IMU Tracker terhadap akurasi Full Body Tracking.\n\nPengujian dilakukan menggunakan beberapa konfigurasi pemasangan tracker pada sistem SlimeVR.\n\n___\n\n#h1 Dokumentasi\n\n#img asset/logo/image2.png\n\n#img assets/photo2.jpg\n\n#vid assets/video1.webm\n\n___\n\n#h1 Dokumen Penelitian\n\n#file PaktaIntegritasTataTertib2026-2027_SMA.pdf"]
+                    "content": [
+                        "#h1 Abstrak",
+                        "Ini hanya file penelitian sederhana untuk pengujian."
+                    ]
                 },
                 {
                     "id": "0000302",
                     "type": "b",
-                    "title": "Analisis Pengaruh Posisi IMU Tracker terhadap Akurasi Full Body Tracking",
-                    "subtitle": "Penelitian Sekolah Alam Cikeas",
-                    "mentor": "Bapak Ahmad",
+                    "title": "Simple Research Test",
+                    "mentor": "Bapak b",
                     "year": "2026",
-                    "content": ["#h1 Abstrak\n\nPenelitian ini bertujuan untuk menganalisis pengaruh posisi pemasangan IMU Tracker terhadap akurasi Full Body Tracking.\n\nPengujian dilakukan menggunakan beberapa konfigurasi pemasangan tracker pada sistem SlimeVR.\n\n___\n\n#h1 Dokumentasi\n\n#img asset/logo/image2.png\n\n#img assets/photo2.jpg\n\n#vid assets/video1.webm\n\n___\n\n#h1 Dokumen Penelitian\n\n#file PaktaIntegritasTataTertib2026-2027_SMA.pdf"]
+                    "content": [
+                        "#h1 Abstrak",
+                        "Ini hanya file penelitian sederhana untuk pengujian."
+                    ]
+                },
+                {
+                    "id": "0000303",
+                    "type": "c",
+                    "title": "Simple Research Test",
+                    "mentor": "Bapak c",
+                    "year": "2026",
+                    "content": [
+                        "#h1 Abstrak",
+                        "Ini hanya file penelitian sederhana untuk pengujian."
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "00002",
+            "name": "Fela",
+            "photo": null,
+            "research": [
+                {
+                    "id": "0000201",
+                    "type": "a",
+                    "title": "Simple Research Test",
+                    "mentor": "Bapak a",
+                    "year": "2026",
+                    "content": [
+                        "#h1 Abstrak",
+                        "Ini hanya file penelitian sederhana untuk pengujian."
+                    ]
+                },
+                {
+                    "id": "0000302",
+                    "type": "b",
+                    "title": "Simple Research Test",
+                    "mentor": "Bapak b",
+                    "year": "2026",
+                    "content": [
+                        "#h1 Abstrak",
+                        "Ini hanya file penelitian sederhana untuk pengujian."
+                    ]
+                },
+                {
+                    "id": "0000303",
+                    "type": "c",
+                    "title": "Simple Research Test",
+                    "mentor": "Bapak c",
+                    "year": "2026",
+                    "content": [
+                        "#h1 Abstrak",
+                        "Ini hanya file penelitian sederhana untuk pengujian."
+                    ]
                 }
             ]
         }
-
     ]
 }
