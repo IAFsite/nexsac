@@ -1,0 +1,337 @@
+{
+    "generation": {
+        "id": "08",
+        "name": "ANGKATAN 08",
+        "description": "Daftar murid angkatan 08 Sekolah Alam Cikeas."
+    },
+
+    "students": [
+        {
+            "id": "08001",
+            "jurusan": "IPA",
+            "name": "ABDURROHMAN SUDAIS",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08002",
+            "jurusan": "IPS",
+            "name": "ALMIRA KHANSA MAZAYA",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08003",
+            "jurusan": "IPA",
+            "name": "AMELIA AKILAH PUTRI",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08004",
+            "jurusan": "IPS",
+            "name": "ANDI SYIFANA MARUDDANI",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08005",
+            "jurusan": "IPA",
+            "name": "ARRAFI SHIDQII HIDAYAT",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08006",
+            "jurusan": "IPS",
+            "name": "ATHIFA ZAHRA KHALISA",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08007",
+            "jurusan": "IPS",
+            "name": "AYUDYA FATHIA RAHMANI",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08008",
+            "jurusan": "IPA",
+            "name": "AZIZA AISYA HADIANTO",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08009",
+            "jurusan": "IPA",
+            "name": "BAGAS PRADIPTA HAFMAN",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08010",
+            "jurusan": "IPA",
+            "name": "BILAL MAULANA THAMSIL",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08011",
+            "jurusan": "IPS",
+            "name": "DAANISH FAIZY",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08012",
+            "jurusan": "IPS",
+            "name": "DANISH NAIL YUSRI",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08013",
+            "jurusan": "IPA",
+            "name": "ELDRICK AIONDO IMONUSCO SARAGI",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08014",
+            "jurusan": "IPA",
+            "name": "FACHRYAN SPAER",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08015",
+            "jurusan": "IPA",
+            "name": "FAWWAZ NABIL BAIHAQI HAKIM",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08016",
+            "jurusan": "IPA",
+            "name": "HARIEL TRIADITYA HARDADI MARTOKOESOEMO",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08017",
+            "jurusan": "IPA",
+            "name": "JOVAN NABIL ARISTA SHEKA",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08018",
+            "jurusan": "IPA",
+            "name": "KALIANDRA DAMADIKA",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08019",
+            "jurusan": "IPA",
+            "name": "KETUT ADHYANDRA RADHYA PUTRA",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08020",
+            "jurusan": "IPS",
+            "name": "LENI SULASTRI",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08021",
+            "jurusan": "IPA",
+            "name": "LINTANG SATRIO UTOMO",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08022",
+            "jurusan": "IPA",
+            "name": "MAYLAFFLY LUNA DINATA",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08023",
+            "jurusan": "IPA",
+            "name": "MUHAMMAD OKSYAFIQ HUTASUHUT",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08024",
+            "jurusan": "IPS",
+            "name": "MUHAMMAD ZIAULHAQ",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08025",
+            "jurusan": "IPS",
+            "name": "NAURA NADHIFA LUKMAN",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08026",
+            "jurusan": "IPA",
+            "name": "NAUREEN MIWA SASHENKA",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08027",
+            "jurusan": "IPS",
+            "name": "NICOLAS KAI PEHIADANG",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08028",
+            "jurusan": "IPA",
+            "name": "PASHA ADHITEA HAFIDZ",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08029",
+            "jurusan": "IPS",
+            "name": "QANITA DZATUDZAKA RABBANIYA",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08030",
+            "jurusan": "IPS",
+            "name": "QUEENAYLA AULIA SYAFRUDIN",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08031",
+            "jurusan": "IPA",
+            "name": "RAGAH RAGIL RANGGA MUSTIKA",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08032",
+            "jurusan": "IPA",
+            "name": "RAOUL IBRAHIM OKTAVIANO",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08033",
+            "jurusan": "IPA",
+            "name": "RAVENZY RADIAN SUKMA",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08034",
+            "jurusan": "IPA",
+            "name": "RAYHANUN NADJIB",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08035",
+            "jurusan": "IPS",
+            "name": "ROHIMAH SA'BANIAH",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08036",
+            "jurusan": "IPA",
+            "name": "ROY PUTRA SETYAWAN",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08037",
+            "jurusan": "IPS",
+            "name": "SALMAN RABBANI PUTRA GUNAWAN",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08038",
+            "jurusan": "IPA",
+            "name": "SHASTA KAY BODDA",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08039",
+            "jurusan": "IPA",
+            "name": "SULTAN OKSATRIA SALAHUDIN HUTASUHUT",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08040",
+            "jurusan": "IPS",
+            "name": "TARA QUINN SYAHNAILA",
+            "photo": null,
+            "research": []
+        },
+
+        {
+            "id": "08041",
+            "jurusan": "IPA",
+            "name": "YAZID KHAIRY ASHARI",
+            "photo": null,
+            "research": []
+        }
+    ]
+}
