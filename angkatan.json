@@ -1,6 +1,11 @@
 {
     "generations": [
         {
+            "id": "07",
+            "name": "MURID ANGKATAN 07",
+            "range": "2024 / 2028"
+        },
+        {
             "id": "08",
             "name": "MURID ANGKATAN 08",
             "range": "2025 / 2029"
